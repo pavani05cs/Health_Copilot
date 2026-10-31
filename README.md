@@ -539,3 +539,12 @@ This software is developed for research, workflow automation, and clinical demon
 
 ### License
 This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
+# 🚀 AI-Powered Personal Health Copilot
+
+### Intelligent Healthcare Document Processing, Patient Record Management & AI-Powered Clinical Decision Support
+
+🌐 **Live Application:** http://3.27.249.44:5173
+
+---
+
+
