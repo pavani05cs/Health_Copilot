@@ -1,0 +1,37 @@
+# Environment & Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Database
+health_copilot.db
+*.sqlite3
+
+# Personal / Test artifacts
+resume.pdf
+resume_ocr_result.json
+resume_ocr_result.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+paddleocr_env/
+
+# Frontend builds and dependencies
+frontend/node_modules/
+frontend/dist/
+frontend_dist/
+*.tar.gz
+
+# Logs & temp
+*.log
+temp_uploads/
+latest_ec2_ip.txt
+.DS_Store
+Thumbs.db

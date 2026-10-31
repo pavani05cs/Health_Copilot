@@ -1,0 +1,252 @@
+{
+  "telugu": {
+    "lines": [
+      {
+        "text": "APOLLO CLINIC & HEALTHCARE",
+        "confidence": 0.9969
+      },
+      {
+        "text": "Dr. K. Srinivas, MBBS, MD (Internal Medicine) | Reg No: TS-45920",
+        "confidence": 0.9709
+      },
+      {
+        "text": "Road No 36, Jubilee Hills, Hyderabad, Telangana | Ph: +91 40 2345 6789",
+        "confidence": 0.9838
+      },
+      {
+        "text": "Patient Name: Ramesh Rao",
+        "confidence": 0.9987
+      },
+      {
+        "text": "Age: 52 Yrs",
+        "confidence": 0.9953
+      },
+      {
+        "text": "Gender: Male",
+        "confidence": 0.9596
+      },
+      {
+        "text": "Date: 12-0ct-2026",
+        "confidence": 0.9674
+      },
+      {
+        "text": "ABHA ID: 91-4432-8891-2011",
+        "confidence": 0.9961
+      },
+      {
+        "text": "Contact: +91 98480 12345",
+        "confidence": 0.999
+      },
+      {
+        "text": "CLINICAL OBSERVATIONS & LAB VALUES",
+        "confidence": 0.999
+      },
+      {
+        "text": "Diagnosis: Type 2 Diabetes Mellitus with Essential Hypertension",
+        "confidence": 0.9855
+      },
+      {
+        "text": "Blood Pressure: 140/90 mmHg | Pulse: 76 bpm | BMI: 26.4 kg/m2",
+        "confidence": 0.9752
+      },
+      {
+        "text": "Fasting Blood Sugar (FBS): 162 mg/dL | HbA1c: 7.8% | Serum Creatinine: 0.9 mg/dL",
+        "confidence": 0.9718
+      },
+      {
+        "text": "(మందుల వివరాలు) []",
+        "confidence": 0.9565
+      },
+      {
+        "text": "1. Tab Metformin 500mg",
+        "confidence": 0.9973
+      },
+      {
+        "text": "మోతాదు: రోజుకు రెండుసార్లు భో జనం తర్వాత తీసుకోండి (1 - 0 - 1)",
+        "confidence": 0.9674
+      },
+      {
+        "text": "2. Tab Telmisartan 40mg",
+        "confidence": 0.9916
+      },
+      {
+        "text": "మోతాదు: ఉదయం ఖాళీ కడుపుతో ఒకసారి వేసుకోండి (1 - 0 - 0)",
+        "confidence": 0.9888
+      },
+      {
+        "text": "3. Tab Glimepiride 1mg",
+        "confidence": 0.9916
+      },
+      {
+        "text": "మోతాదు: ఉదయం అల్పాహారానికి 15 నిమిషాల ముందు తీసుకోండి (1 - 0 - 0)",
+        "confidence": 0.9731
+      },
+      {
+        "text": "4. Cap Vitamin D3 60k",
+        "confidence": 0.9934
+      },
+      {
+        "text": "మోతాదు: వారానికి ఒకసారి భోజనం తర్వాత వేసుకోండి (శనివారం)",
+        "confidence": 0.9763
+      },
+      {
+        "text": "ప్రతిరోజు 30 నిమిషాలు ఉదయం నడక వ్యాయామం తప్పనిసరిగా చేయండి.",
+        "confidence": 0.9876
+      },
+      {
+        "text": "తీపి పదార్ధాలు, వేపుళ్ళ మరియు ఉప్పు వినియోగాన్ని పూర్తిగా తగ్గించండి.",
+        "confidence": 0.9687
+      },
+      {
+        "text": "నీరసం లేదా మైకం వచ్చినట్లయితే వెంటనే రక్తంలో చక్కెర పరీక్షించి గ్లూకోజ్ తీసుకోండి.",
+        "confidence": 0.9735
+      },
+      {
+        "text": "15 రోజుల తర్వాత ఖాళీ కడుపుతో షుగర్ పరీక్ష చేయించి డాక్టర్ను సంప్రదించండి.",
+        "confidence": 0.9629
+      },
+      {
+        "text": "e",
+        "confidence": 0.9704
+      },
+      {
+        "text": "డాక్టర్ సంతకం /  :",
+        "confidence": 0.9378
+      },
+      {
+        "text": "Next Follow-up Date: 27-Oct-2026",
+        "confidence": 0.9843
+      },
+      {
+        "text": "ట",
+        "confidence": 0.929
+      },
+      {
+        "text": "Dr. K. Srinivas, MD",
+        "confidence": 0.9759
+      }
+    ],
+    "latency_ms": 33984.97009277344
+  },
+  "hindi": {
+    "lines": [
+      {
+        "text": "MAX SUPER SPECIALITY HOSPITAL",
+        "confidence": 0.9865
+      },
+      {
+        "text": "Dr. Rajesh Verma, MBBS, DNB (Internal Medicine) | Reg No: DMC-68421",
+        "confidence": 0.9728
+      },
+      {
+        "text": "Patient Name: Sunita Sharma",
+        "confidence": 0.9893
+      },
+      {
+        "text": "Age: 46 Yrs",
+        "confidence": 0.9958
+      },
+      {
+        "text": "Gender: Female",
+        "confidence": 0.9997
+      },
+      {
+        "text": "Date: 12-Oct-2026",
+        "confidence": 0.9911
+      },
+      {
+        "text": "ABHA ID: 14-8821-3341-9920",
+        "confidence": 0.9996
+      },
+      {
+        "text": "Contact: +91 98110 54321",
+        "confidence": 0.9983
+      },
+      {
+        "text": "CLINICAL OBSERVATIONS & LAB VALUES",
+        "confidence": 0.9988
+      },
+      {
+        "text": "Diagnosis: Acute Febrile Illness / Viral Fever with Mild Dehydration",
+        "confidence": 0.995
+      },
+      {
+        "text": "Temperature: 101.4 F I Pulse: 92 bpm | Sp02: 98% on room air",
+        "confidence": 0.9772
+      },
+      {
+        "text": "Platelet Count: 185,000 /mcL | Hemoglobin (Hb): 12.2 g/dL | TLC: 6,400 /mcL",
+        "confidence": 0.9729
+      },
+      {
+        "text": "(दवाओं का विवरण) [)",
+        "confidence": 0.8542
+      },
+      {
+        "text": "1. Tab Paracetamol 650mg",
+        "confidence": 0.9854
+      },
+      {
+        "text": "खुराक / निरदेश: दिन मे तीन बार खाने के बाद बुखार होने पर ले (1 - 1 - 1)",
+        "confidence": 0.9513
+      },
+      {
+        "text": "2. Tab Pantoprazole 40mg",
+        "confidence": 0.998
+      },
+      {
+        "text": "खुराक / निर्ेश: सुबह खाली पेट एक गोली नाश्ते से 30 मिनट पहले लें (1 - 0 - 0)",
+        "confidence": 0.9645
+      },
+      {
+        "text": "3. Tab Cetirizine 10mg",
+        "confidence": 0.9954
+      },
+      {
+        "text": "खुराक / नि्ेश: रात को सोने से पहले एक गोली लें (0 - 0 - 1)",
+        "confidence": 0.9717
+      },
+      {
+        "text": "4. ORS  (Electrolyte)",
+        "confidence": 0.9827
+      },
+      {
+        "text": "खुराक / निदेश: एक पैकेट 1 लीटर उबले पानी में मिलाकर दिनभर घूंट-चघंट पिएं",
+        "confidence": 0.9507
+      },
+      {
+        "text": "चिकित्सक के मह्वपर्ण निरदेश (  )",
+        "confidence": 0.9019
+      },
+      {
+        "text": "भरपूर मात्र में पानी, नारियल पानी और ताजा तरल पदार्थ का सेवन करें।",
+        "confidence": 0.957
+      },
+      {
+        "text": "पूरी तरह आराम करेंतथा तैलीय एवं भारी भोजन से परहेज रखें",
+        "confidence": 0.9621
+      },
+      {
+        "text": "बुखार 102 डिग्ी से अधिक होने पर माथे पर ठंे पानी की पट्टी रखें।",
+        "confidence": 0.9354
+      },
+      {
+        "text": "यदि 3 दिन बाद भी बुखार जारी रहे तो तुरंत प्लेटलेट जांच कराएं।",
+        "confidence": 0.9736
+      },
+      {
+        "text": "चिकितसक हस्ताक्षर /  :",
+        "confidence": 0.933
+      },
+      {
+        "text": "Next Follow-up Date: 15-Oct-2026",
+        "confidence": 0.9738
+      },
+      {
+        "text": "Dr. Rajesh Verma, DNB",
+        "confidence": 0.9987
+      }
+    ],
+    "latency_ms": 31671.0684299469
+  }
+}

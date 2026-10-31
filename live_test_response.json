@@ -1,0 +1,1408 @@
+{
+  "status": "success",
+  "record_id": "rec_1791831512856",
+  "patient_id": "ABHA-91-7989983221",
+  "record_type": "patient_profile_record",
+  "ocr_latency_ms": 34823.29082489014,
+  "extracted_lines": [
+    {
+      "text": "2",
+      "confidence": 0.3788464367389679,
+      "box": [
+        [
+          944,
+          14
+        ],
+        [
+          1190,
+          10
+        ],
+        [
+          1190,
+          264
+        ],
+        [
+          948,
+          267
+        ]
+      ]
+    },
+    {
+      "text": "Pavani Ravulapalli",
+      "confidence": 0.9992720484733582,
+      "box": [
+        [
+          25,
+          58
+        ],
+        [
+          308,
+          69
+        ],
+        [
+          307,
+          103
+        ],
+        [
+          24,
+          92
+        ]
+      ]
+    },
+    {
+      "text": "Pathareddy Palem, Palnadu, Andhra Pradesh",
+      "confidence": 0.9998979568481445,
+      "box": [
+        [
+          24,
+          118
+        ],
+        [
+          437,
+          130
+        ],
+        [
+          437,
+          158
+        ],
+        [
+          23,
+          146
+        ]
+      ]
+    },
+    {
+      "text": "7989983221 |pavaniravulapalli2005@gmail.com",
+      "confidence": 0.9932472705841064,
+      "box": [
+        [
+          25,
+          144
+        ],
+        [
+          484,
+          156
+        ],
+        [
+          483,
+          186
+        ],
+        [
+          24,
+          174
+        ]
+      ]
+    },
+    {
+      "text": "https://github.com/pavani05cs",
+      "confidence": 0.9924874901771545,
+      "box": [
+        [
+          58,
+          193
+        ],
+        [
+          344,
+          203
+        ],
+        [
+          343,
+          230
+        ],
+        [
+          57,
+          220
+        ]
+      ]
+    },
+    {
+      "text": "https://www.linkedin.com/in/pavani-ravulapalli-66856529a",
+      "confidence": 0.9992832541465759,
+      "box": [
+        [
+          57,
+          227
+        ],
+        [
+          582,
+          233
+        ],
+        [
+          582,
+          266
+        ],
+        [
+          56,
+          261
+        ]
+      ]
+    },
+    {
+      "text": "Objective",
+      "confidence": 0.9999535083770752,
+      "box": [
+        [
+          31,
+          345
+        ],
+        [
+          171,
+          347
+        ],
+        [
+          170,
+          382
+        ],
+        [
+          30,
+          379
+        ]
+      ]
+    },
+    {
+      "text": "Aspiring professional with a Computer Science background, strong communication and analytical abilities, and a",
+      "confidence": 0.9986632466316223,
+      "box": [
+        [
+          33,
+          407
+        ],
+        [
+          1057,
+          408
+        ],
+        [
+          1057,
+          435
+        ],
+        [
+          33,
+          434
+        ]
+      ]
+    },
+    {
+      "text": "collaborative mindset. Eager to leverage interpersonal skills, adaptability, and problem-solving capabilities to drive team",
+      "confidence": 0.9928227663040161,
+      "box": [
+        [
+          33,
+          434
+        ],
+        [
+          1127,
+          434
+        ],
+        [
+          1127,
+          461
+        ],
+        [
+          33,
+          461
+        ]
+      ]
+    },
+    {
+      "text": "success and contribute to organizational growth.",
+      "confidence": 0.9992823600769043,
+      "box": [
+        [
+          35,
+          462
+        ],
+        [
+          479,
+          462
+        ],
+        [
+          479,
+          482
+        ],
+        [
+          35,
+          482
+        ]
+      ]
+    },
+    {
+      "text": "Education",
+      "confidence": 0.9998787641525269,
+      "box": [
+        [
+          35,
+          536
+        ],
+        [
+          182,
+          539
+        ],
+        [
+          182,
+          570
+        ],
+        [
+          34,
+          568
+        ]
+      ]
+    },
+    {
+      "text": "Course / Degree",
+      "confidence": 0.967441201210022,
+      "box": [
+        [
+          36,
+          597
+        ],
+        [
+          215,
+          597
+        ],
+        [
+          215,
+          628
+        ],
+        [
+          36,
+          628
+        ]
+      ]
+    },
+    {
+      "text": "School / University",
+      "confidence": 0.9817860126495361,
+      "box": [
+        [
+          307,
+          597
+        ],
+        [
+          501,
+          597
+        ],
+        [
+          501,
+          625
+        ],
+        [
+          307,
+          625
+        ]
+      ]
+    },
+    {
+      "text": "Grade / Score",
+      "confidence": 0.9695502519607544,
+      "box": [
+        [
+          749,
+          597
+        ],
+        [
+          889,
+          597
+        ],
+        [
+          889,
+          625
+        ],
+        [
+          749,
+          625
+        ]
+      ]
+    },
+    {
+      "text": "Year",
+      "confidence": 0.9999784231185913,
+      "box": [
+        [
+          964,
+          590
+        ],
+        [
+          1029,
+          593
+        ],
+        [
+          1027,
+          628
+        ],
+        [
+          962,
+          626
+        ]
+      ]
+    },
+    {
+      "text": "B.Tech(CSE)",
+      "confidence": 0.9999656677246094,
+      "box": [
+        [
+          36,
+          650
+        ],
+        [
+          169,
+          652
+        ],
+        [
+          169,
+          680
+        ],
+        [
+          35,
+          677
+        ]
+      ]
+    },
+    {
+      "text": "Narasaraopeta Engineering College",
+      "confidence": 0.9910299181938171,
+      "box": [
+        [
+          305,
+          652
+        ],
+        [
+          621,
+          654
+        ],
+        [
+          621,
+          680
+        ],
+        [
+          304,
+          678
+        ]
+      ]
+    },
+    {
+      "text": "9.2",
+      "confidence": 0.9999625086784363,
+      "box": [
+        [
+          743,
+          649
+        ],
+        [
+          785,
+          649
+        ],
+        [
+          785,
+          683
+        ],
+        [
+          743,
+          683
+        ]
+      ]
+    },
+    {
+      "text": "2027(Expected)",
+      "confidence": 0.9976077675819397,
+      "box": [
+        [
+          964,
+          648
+        ],
+        [
+          1113,
+          651
+        ],
+        [
+          1112,
+          679
+        ],
+        [
+          964,
+          675
+        ]
+      ]
+    },
+    {
+      "text": "K.G.B.V.Jr College (Nekarikallu)",
+      "confidence": 0.996907651424408,
+      "box": [
+        [
+          308,
+          702
+        ],
+        [
+          606,
+          705
+        ],
+        [
+          606,
+          729
+        ],
+        [
+          307,
+          726
+        ]
+      ]
+    },
+    {
+      "text": "96",
+      "confidence": 0.9999845027923584,
+      "box": [
+        [
+          744,
+          700
+        ],
+        [
+          780,
+          700
+        ],
+        [
+          780,
+          732
+        ],
+        [
+          744,
+          732
+        ]
+      ]
+    },
+    {
+      "text": "2023",
+      "confidence": 0.9999904632568359,
+      "box": [
+        [
+          962,
+          696
+        ],
+        [
+          1016,
+          696
+        ],
+        [
+          1016,
+          728
+        ],
+        [
+          962,
+          728
+        ]
+      ]
+    },
+    {
+      "text": "Intermediate (MPC)",
+      "confidence": 0.9999231696128845,
+      "box": [
+        [
+          39,
+          706
+        ],
+        [
+          226,
+          706
+        ],
+        [
+          226,
+          727
+        ],
+        [
+          39,
+          727
+        ]
+      ]
+    },
+    {
+      "text": "SSC",
+      "confidence": 0.999797523021698,
+      "box": [
+        [
+          35,
+          754
+        ],
+        [
+          89,
+          754
+        ],
+        [
+          89,
+          786
+        ],
+        [
+          35,
+          786
+        ]
+      ]
+    },
+    {
+      "text": "K.G.B.V, Nuzendla",
+      "confidence": 0.9992528557777405,
+      "box": [
+        [
+          308,
+          753
+        ],
+        [
+          483,
+          755
+        ],
+        [
+          482,
+          779
+        ],
+        [
+          307,
+          777
+        ]
+      ]
+    },
+    {
+      "text": "98",
+      "confidence": 0.9999964833259583,
+      "box": [
+        [
+          744,
+          751
+        ],
+        [
+          779,
+          751
+        ],
+        [
+          779,
+          783
+        ],
+        [
+          744,
+          783
+        ]
+      ]
+    },
+    {
+      "text": "2021",
+      "confidence": 0.9999788999557495,
+      "box": [
+        [
+          961,
+          749
+        ],
+        [
+          1015,
+          749
+        ],
+        [
+          1015,
+          781
+        ],
+        [
+          961,
+          781
+        ]
+      ]
+    },
+    {
+      "text": "Skills",
+      "confidence": 0.9989809393882751,
+      "box": [
+        [
+          36,
+          832
+        ],
+        [
+          121,
+          829
+        ],
+        [
+          122,
+          866
+        ],
+        [
+          37,
+          869
+        ]
+      ]
+    },
+    {
+      "text": "Good at verbal and written communication",
+      "confidence": 0.9852359890937805,
+      "box": [
+        [
+          32,
+          906
+        ],
+        [
+          415,
+          903
+        ],
+        [
+          415,
+          926
+        ],
+        [
+          32,
+          929
+        ]
+      ]
+    },
+    {
+      "text": "Critical thinking",
+      "confidence": 0.9999708533287048,
+      "box": [
+        [
+          33,
+          964
+        ],
+        [
+          183,
+          964
+        ],
+        [
+          183,
+          988
+        ],
+        [
+          33,
+          988
+        ]
+      ]
+    },
+    {
+      "text": "Adaptability and Teamwork",
+      "confidence": 0.996920108795166,
+      "box": [
+        [
+          34,
+          1021
+        ],
+        [
+          291,
+          1018
+        ],
+        [
+          292,
+          1042
+        ],
+        [
+          34,
+          1045
+        ]
+      ]
+    },
+    {
+      "text": "Good at Problem Solving",
+      "confidence": 0.9979767203330994,
+      "box": [
+        [
+          32,
+          1078
+        ],
+        [
+          267,
+          1077
+        ],
+        [
+          267,
+          1101
+        ],
+        [
+          32,
+          1102
+        ]
+      ]
+    },
+    {
+      "text": "MS Office: Excel,Word, PowerPoint",
+      "confidence": 0.9980114102363586,
+      "box": [
+        [
+          31,
+          1137
+        ],
+        [
+          369,
+          1135
+        ],
+        [
+          369,
+          1157
+        ],
+        [
+          31,
+          1159
+        ]
+      ]
+    },
+    {
+      "text": "Programming: Python,Java,C",
+      "confidence": 0.9913175106048584,
+      "box": [
+        [
+          32,
+          1195
+        ],
+        [
+          303,
+          1192
+        ],
+        [
+          304,
+          1216
+        ],
+        [
+          32,
+          1219
+        ]
+      ]
+    },
+    {
+      "text": "Database: MySQL",
+      "confidence": 0.9998592734336853,
+      "box": [
+        [
+          32,
+          1253
+        ],
+        [
+          206,
+          1251
+        ],
+        [
+          206,
+          1275
+        ],
+        [
+          32,
+          1277
+        ]
+      ]
+    },
+    {
+      "text": "Tools: Git, GitHub,VSCode",
+      "confidence": 0.999865710735321,
+      "box": [
+        [
+          30,
+          1310
+        ],
+        [
+          283,
+          1305
+        ],
+        [
+          284,
+          1329
+        ],
+        [
+          30,
+          1333
+        ]
+      ]
+    },
+    {
+      "text": "Internships",
+      "confidence": 0.9999628067016602,
+      "box": [
+        [
+          39,
+          1360
+        ],
+        [
+          199,
+          1360
+        ],
+        [
+          199,
+          1391
+        ],
+        [
+          39,
+          1391
+        ]
+      ]
+    },
+    {
+      "text": "Machine Learning Intern - Edu2Job: Predicting Job Roles Based on Education Background February 5,2026 -",
+      "confidence": 0.9949677586555481,
+      "box": [
+        [
+          33,
+          1428
+        ],
+        [
+          1017,
+          1425
+        ],
+        [
+          1017,
+          1458
+        ],
+        [
+          33,
+          1461
+        ]
+      ]
+    },
+    {
+      "text": "April 5,2026",
+      "confidence": 0.970501720905304,
+      "box": [
+        [
+          37,
+          1459
+        ],
+        [
+          164,
+          1454
+        ],
+        [
+          165,
+          1481
+        ],
+        [
+          38,
+          1486
+        ]
+      ]
+    },
+    {
+      "text": "Infosys Springboard",
+      "confidence": 0.9918834567070007,
+      "box": [
+        [
+          35,
+          1484
+        ],
+        [
+          232,
+          1477
+        ],
+        [
+          232,
+          1504
+        ],
+        [
+          36,
+          1510
+        ]
+      ]
+    },
+    {
+      "text": "AI Automation & Agent Engineering Intern May4,2026 -",
+      "confidence": 0.9983967542648315,
+      "box": [
+        [
+          37,
+          1591
+        ],
+        [
+          553,
+          1579
+        ],
+        [
+          554,
+          1606
+        ],
+        [
+          38,
+          1618
+        ]
+      ]
+    },
+    {
+      "text": "June27,2026",
+      "confidence": 0.9999889135360718,
+      "box": [
+        [
+          36,
+          1617
+        ],
+        [
+          164,
+          1614
+        ],
+        [
+          164,
+          1639
+        ],
+        [
+          36,
+          1641
+        ]
+      ]
+    },
+    {
+      "text": "DataValley India Pvt.Ltd",
+      "confidence": 0.9996239542961121,
+      "box": [
+        [
+          36,
+          1643
+        ],
+        [
+          271,
+          1636
+        ],
+        [
+          272,
+          1663
+        ],
+        [
+          37,
+          1669
+        ]
+      ]
+    },
+    {
+      "text": "Completed an Al Automation & Agent Engineering Internship at DataValley India Pvt. Ltd., designing and",
+      "confidence": 0.984189510345459,
+      "box": [
+        [
+          25,
+          0
+        ],
+        [
+          998,
+          0
+        ],
+        [
+          998,
+          20
+        ],
+        [
+          25,
+          18
+        ]
+      ]
+    },
+    {
+      "text": "implementing AI-powered agents and intelligent automation solutions for real-world business applications.",
+      "confidence": 0.9997705221176147,
+      "box": [
+        [
+          24,
+          18
+        ],
+        [
+          989,
+          24
+        ],
+        [
+          989,
+          52
+        ],
+        [
+          24,
+          46
+        ]
+      ]
+    },
+    {
+      "text": "Projects",
+      "confidence": 0.9999649524688721,
+      "box": [
+        [
+          27,
+          99
+        ],
+        [
+          150,
+          103
+        ],
+        [
+          149,
+          142
+        ],
+        [
+          26,
+          139
+        ]
+      ]
+    },
+    {
+      "text": "Disease Diagnosis Framework Using RVFL for Heart Disease and Bladder Cancer Detection",
+      "confidence": 0.999607503414154,
+      "box": [
+        [
+          26,
+          180
+        ],
+        [
+          923,
+          190
+        ],
+        [
+          922,
+          220
+        ],
+        [
+          26,
+          210
+        ]
+      ]
+    },
+    {
+      "text": "Developed a machine learning model for heart disease and bladder cancer prediction using clinical datasets.",
+      "confidence": 0.9941689372062683,
+      "box": [
+        [
+          101,
+          212
+        ],
+        [
+          1086,
+          225
+        ],
+        [
+          1085,
+          254
+        ],
+        [
+          100,
+          242
+        ]
+      ]
+    },
+    {
+      "text": "Performed data preprocessing, feature engineering, and model evaluation to assess predictive performance.",
+      "confidence": 0.9995906352996826,
+      "box": [
+        [
+          100,
+          268
+        ],
+        [
+          1075,
+          280
+        ],
+        [
+          1074,
+          311
+        ],
+        [
+          99,
+          299
+        ]
+      ]
+    },
+    {
+      "text": "WiseChoice — AI-Based Product Review Analysis",
+      "confidence": 0.9919928908348083,
+      "box": [
+        [
+          29,
+          333
+        ],
+        [
+          512,
+          338
+        ],
+        [
+          511,
+          365
+        ],
+        [
+          29,
+          360
+        ]
+      ]
+    },
+    {
+      "text": "Developed an AI-based system to evaluate product quality and price fairness using machine learning and NLP.",
+      "confidence": 0.992234468460083,
+      "box": [
+        [
+          103,
+          365
+        ],
+        [
+          1098,
+          376
+        ],
+        [
+          1097,
+          402
+        ],
+        [
+          102,
+          391
+        ]
+      ]
+    },
+    {
+      "text": "• Analyzed customer reviews to identify review patterns and generate product recommendations.",
+      "confidence": 0.9805485010147095,
+      "box": [
+        [
+          70,
+          419
+        ],
+        [
+          983,
+          431
+        ],
+        [
+          983,
+          457
+        ],
+        [
+          69,
+          445
+        ]
+      ]
+    },
+    {
+      "text": "Certifications",
+      "confidence": 0.9997479319572449,
+      "box": [
+        [
+          30,
+          508
+        ],
+        [
+          213,
+          513
+        ],
+        [
+          213,
+          545
+        ],
+        [
+          29,
+          540
+        ]
+      ]
+    },
+    {
+      "text": "Java Foundation certification (Infosys Springboard)",
+      "confidence": 0.9990062117576599,
+      "box": [
+        [
+          25,
+          586
+        ],
+        [
+          496,
+          594
+        ],
+        [
+          495,
+          621
+        ],
+        [
+          25,
+          613
+        ]
+      ]
+    },
+    {
+      "text": "Internet of Things (NPTEL)",
+      "confidence": 0.9984444379806519,
+      "box": [
+        [
+          27,
+          649
+        ],
+        [
+          286,
+          654
+        ],
+        [
+          285,
+          679
+        ],
+        [
+          27,
+          673
+        ]
+      ]
+    },
+    {
+      "text": "Google's Generative AI Course (L4G)",
+      "confidence": 0.9994731545448303,
+      "box": [
+        [
+          27,
+          710
+        ],
+        [
+          375,
+          716
+        ],
+        [
+          375,
+          743
+        ],
+        [
+          27,
+          737
+        ]
+      ]
+    },
+    {
+      "text": "Infosys Springboard Internship Certification on Job Role Prediction using ML",
+      "confidence": 0.9992119669914246,
+      "box": [
+        [
+          25,
+          775
+        ],
+        [
+          732,
+          783
+        ],
+        [
+          731,
+          810
+        ],
+        [
+          25,
+          802
+        ]
+      ]
+    },
+    {
+      "text": "Datavalley Internship Certification on AI Automation and Agent Engineering",
+      "confidence": 0.9999179244041443,
+      "box": [
+        [
+          24,
+          839
+        ],
+        [
+          737,
+          847
+        ],
+        [
+          737,
+          873
+        ],
+        [
+          24,
+          866
+        ]
+      ]
+    },
+    {
+      "text": "Languages",
+      "confidence": 0.9997933506965637,
+      "box": [
+        [
+          23,
+          936
+        ],
+        [
+          176,
+          936
+        ],
+        [
+          176,
+          967
+        ],
+        [
+          23,
+          967
+        ]
+      ]
+    },
+    {
+      "text": "Telugu",
+      "confidence": 0.999943196773529,
+      "box": [
+        [
+          19,
+          1004
+        ],
+        [
+          98,
+          1007
+        ],
+        [
+          97,
+          1041
+        ],
+        [
+          18,
+          1038
+        ]
+      ]
+    },
+    {
+      "text": "English",
+      "confidence": 0.9999774098396301,
+      "box": [
+        [
+          19,
+          1065
+        ],
+        [
+          101,
+          1065
+        ],
+        [
+          101,
+          1097
+        ],
+        [
+          19,
+          1097
+        ]
+      ]
+    },
+    {
+      "text": "R.Pavani",
+      "confidence": 0.9942951202392578,
+      "box": [
+        [
+          944,
+          1203
+        ],
+        [
+          1094,
+          1200
+        ],
+        [
+          1095,
+          1242
+        ],
+        [
+          945,
+          1245
+        ]
+      ]
+    },
+    {
+      "text": "PAVANIRAVULAPALLI",
+      "confidence": 0.9999454617500305,
+      "box": [
+        [
+          870,
+          1317
+        ],
+        [
+          1120,
+          1312
+        ],
+        [
+          1121,
+          1335
+        ],
+        [
+          871,
+          1339
+        ]
+      ]
+    }
+  ],
+  "s3_storage": {
+    "raw_bucket": "health-copilot-raw-records-938095766262",
+    "raw_key": "users/ABHA-91-7989983221/records/rec_1791831512856/original_rec_1791831512856_Pavani_Ravulapalli_Resume.pdf",
+    "artifacts_bucket": "health-copilot-processed-artifacts-938095766262",
+    "ocr_tokens_key": "users/ABHA-91-7989983221/records/rec_1791831512856/ocr/ppocrv6_tokens.json",
+    "fhir_bucket": "health-copilot-fhir-records-938095766262",
+    "fhir_key": "patients/ABHA-91-7989983221/fhir/bundle_rec_1791831512856.json",
+    "summaries": {
+      "en": "patients/ABHA-91-7989983221/summaries/summary_en_rec_1791831512856.json",
+      "te": "patients/ABHA-91-7989983221/summaries/summary_te_rec_1791831512856.json",
+      "hi": "patients/ABHA-91-7989983221/summaries/summary_hi_rec_1791831512856.json"
+    }
+  }
+}
